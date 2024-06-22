@@ -14,18 +14,21 @@ These projects aim to enhance problem-solving skills and proficiency in Python p
     - For each challenge, import data from CSV files where applicable.
     - Transform the data using pandas for sales and product data challenges.
     - Create necessary data structures (e.g., dictionaries, lists) for managing recipes.
-2. i) Challenge - 1 :
+2.
+   i) Challenge - 1 :
     **Function Definitions:**
     - **Create Recipe:** Define a function to create a recipe dictionary with the recipe name, list of ingredients, and instructions.
     - **Add Recipe:** Define a function to add a recipe dictionary to a list of recipes.
     - **Find Recipe:** Define a function to search for a recipe by name within the list of recipes.
     - **Display Recipe:** Define a function to print the recipe details in a user-friendly format.
- ii)  Challenge - 2 :
+ 
+   ii)  Challenge - 2 :
     **Sales Data Analysis:**
     - **Load Data:** Define a function to load sales data from a CSV file into a pandas Data Frame.
     - **Calculate Total Sales:** Define a function to calculate the total sales amount for each product.(Sorted by highest value)
     - **Find Top-Selling Products:** Define a function to identify the top-selling products based on total sales amount.
-iii) Challenge - 3 :
+   
+   iii) Challenge - 3 :
     **Simulating Product Prices:**
     - **Load Product Data:** Define a function to load product data from a CSV file into a pandas Data Frame.
     - **Load Sales Data:** Define a function to load historical sales data from a CSV file into a pandas Data Frame.
